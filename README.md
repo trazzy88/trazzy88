@@ -1,9 +1,3 @@
-## Hi there 👋My name is Jomo
-
-<!--
-**trazzy88/trazzy88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
