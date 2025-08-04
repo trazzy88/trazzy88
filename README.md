@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- 
+## Table of Contents
   -https://docs.google.com/spreadsheets/d/1cFVAwb-1i21nN5VP9z993spmXdZKWXc_5wKuRGgHYIM/edit?gid=0#gid=0
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
