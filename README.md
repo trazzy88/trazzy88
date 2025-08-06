@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Jomo, an <a href="https://linkedin.com/in/jomowalker009325101">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jomo, an <a href="https://linkedin.com/in/jomo-walker-009325101">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
