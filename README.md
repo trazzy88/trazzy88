@@ -11,7 +11,7 @@
 - Easy to use and setup
 - Well-documented codebase
 
-## Installation
+## Creating Microsoft Azure VM
 
 - Clone the repository:
   ```bash
